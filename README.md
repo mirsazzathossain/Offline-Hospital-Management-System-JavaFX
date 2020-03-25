@@ -1,1 +1,1 @@
-# Hospital-Management-System-Offline-JavaFX
+# Offline-Hospital-Management-System-JavaFX
